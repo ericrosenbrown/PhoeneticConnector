@@ -1,6 +1,6 @@
 ## Phoentic Connector
 
-![sushi](./poetry_example.png)
+![example](./poetry_example.png)
 
 This was a small project I did to make a program that could help me find words with similiar phoentics. I used this to do things like, given a word, find a words that have same ending rhyming, middle rhyme, starting rhyme, ect. I also built a really basic markov text chain to produce lines of words that kind of made sense, and then added rhyme words at the end to make it poetry.
 
