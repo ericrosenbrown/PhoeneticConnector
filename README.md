@@ -2,7 +2,7 @@
 
 ![example](./poetry_example.png)
 
-The original idea was to make a program that could make sentences that slurred together phoentically. For example, the last phoenetic pronouciation of "table" has the same phoentic pronuciation start as "bully". "bully" has the same phoentic pronoucation ending as the phoeneitic prounciation of "eating". It can do that, but I expanded it past that.
+The original idea was to make a program that could make sentences that slurred together phoentically. For example, the last phoenetic pronouciation of "table" has the same phoentic pronuciation start as "bully". "bully" has the same phoentic pronoucation ending as the phoeneitic prounciation start of "eating". It can do that, but I expanded it past that.
 
 This was a small project I did to make a program that could help me find words with similiar phoentics. I used this to do things like, given a word, find a words that have same ending rhyming, middle rhyme, starting rhyme, ect. I also built a really basic markov text chain to produce lines of words that kind of made sense, and then added rhyme words at the end to make it poetry.
 
